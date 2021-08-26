@@ -1,0 +1,7 @@
+{
+  "name": "fw-ng-alert-toast-a11y",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
